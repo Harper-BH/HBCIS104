@@ -35,3 +35,27 @@ in operator ~ "f" in fruit ~~ true
 .replace("something", "something")
 strip() removes whitespace ~ lstrip rstrip
 .startswith(" ") = does it start with sokething
+
+**ARRAYS**
+index is the number in the array
+starts at 0
+[] = indexes
+{} = dict
+can be changed
+list = [1, 2, 3, 4]
+list[2] = 3
+range = all the numbers from 0 to 1 under that number
++ operator joins 2 lists together
+listname.append adds the next number to the list
+4 in listname
+4 not in listname
+max, min, sum, len-all usable
+elements = "1 2 3"
+elements.split()
+elements= = [1, 2, 3]
+
+
+
+diamond-decision
+square-put something
+
