@@ -1,0 +1,33 @@
+What is Git and why is it useful? Give specific examples of situations where you would want to use Git.
+
+  Github is an important tool to any programmer and there are many situations where it is essential. The biggest reason why Github is so useful is because it
+  allows programmers to share their source code with other programmers easily over the internet. This lets people work together on different projects and it
+  helps them keep track of all the changes made to the code. Github can be used for very small groups like just a few people, or it could be used for pretty
+  large groups. With most other ways off collaborating on code, you would have to send your code over to someone and they could make changes or add things,
+  after that they could send it back and you could see the new things they did. Doing that would take so much more time than just using github because with
+  github, the code is on the internet and everyone who knows the link can access it. You can choose who is allowed to change the code and add things to the
+  repository too. I would use github if I was stuck on some code and I needed help, or if I was working on some kind of a project with other people on the
+  internet.
+
+Why would you want to create your own function? Give an example
+  Creating your own function can be one of the most useful things for a programmer. The best part about functions is that you don't need to know what is
+  going on inside of it, you just need to know what to input and what it is going to do. You can make a function do anything, but usually they are used
+  to contain parts of your code that you will be using a lot. It is very useful to be able to just call on a function that you already made, rather than
+  rewriting the code all over again to do the same thing. One example of a situation where I would use a function is if I needed to filter out all of the
+  lines with email addresses a lot in a program. I would make a function to do filter all the lines and then whenever I needed only the email addresses I
+  would use the function.
+
+What are the important parts of a loop? Why are they important? What are the two general categories of loops?
+  Loops are used all the time in programs. The two main categories of loops are for loops and while loops, they are both useful in different ways. The for
+  loop can be used when you want to do something to everything in a list or something else. If you wanted to add 1 to every term in your list, you could make
+  a for loop that would do that. For loops are probably used more because of there accessibility, but while loops are still very useful. While loops are more
+  abstract and not as simple to use. You would use a while loop if you wanted to execute a program while something is true or while something is happening.
+  For example, if you wanted something to execute 50 times, you could make a variable for the number of types and then put the code in a while loop for when
+  the variable is under 50.
+
+Describe what lists are. Give an example using a list to solve a coding problem.
+  Lists are some of the most common data structures in any coding language. In python, they can be used to store almost anything and you can use them in almost
+  every situation. Lists are used to store multiple items in one variable. After you make a list, it can be changed in many different ways, one of the most
+  common being to add things to it with .append. Lists are essential for any program and most things done on computers wouldn't be able to be done without
+  them. If I had to take all the numbers out of a text file and find their averages and sums, I would definitely use a list. I could append all of the numbers
+  to a list and find the average and sum easily from there. Without using lists, something that simple would be very difficult to do.
